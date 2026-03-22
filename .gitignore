@@ -1,0 +1,25 @@
+# Bytecode compiler system files
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+*.pdb
+*.pyo
+
+# Virtual environment
+venv/
+ENV/
+.env
+
+# Python cache
+.pytest_cache/
+
+# IDE specific files
+*.swp
+*.swo
+*.lock
+*.log
+
+# Other files
+warnet/
+bitcoin_chain_data_patterns/
